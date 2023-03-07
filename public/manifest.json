@@ -1,0 +1,15 @@
+{
+  "name": "Notion Link",
+  "description": "Notion Link is a chrome extension that allows you to quckly link your current website to a Notion database.",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "homepage_url": "https://github.com/marcmatter/notion-link",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "UUID Generator"
+  },
+  "icons": {
+    "48": "logo48.png",
+    "96": "logo96.png"
+  }
+}
